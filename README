@@ -2,6 +2,7 @@
 This module provides a means to add keyword expansion of the following 
 standard RCS tags to your git projects:
 
+testing.....
 	 $Id$
 	 $Date$
 	 $File$
