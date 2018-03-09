@@ -1,9 +1,12 @@
+called smedge
 /**
  * @file        hello.c
  * @author      @$Author$
  * @date	@$Date$
  * @version	@$Revision$
- *
+ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+-----------------------*
  * $Id$
  */
 
