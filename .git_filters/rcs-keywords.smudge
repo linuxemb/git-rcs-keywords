@@ -17,6 +17,7 @@
 #	smudge = .git_filters/rcs-keywords.smudge %f
 #
 # Copyright (c) 2009-2011 Turon Technologies, Inc.  All rights reserved.
+print "called smedge\n";
 
 $path = shift;
 $path =~ /.*\/(.*)/;
