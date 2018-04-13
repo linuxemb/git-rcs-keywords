@@ -4,9 +4,7 @@ called smedge
  * @author      @$Author$
  * @date	@$Date$
  * @version	@$Revision$
- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
------------------------*
  * $Id$
  */
 
